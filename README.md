@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 - 🤓 Currently learning how to use GitHub
 - 🍃 I like plants

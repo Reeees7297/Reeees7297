@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🤓 Currently learning how to use GitHub
+- 🍃 I like plants
 <!--
 **Reeees7297/Reeees7297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
